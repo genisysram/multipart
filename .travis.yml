@@ -1,0 +1,11 @@
+language: python
+dist: focal
+arch: 
+    - amd64
+    - ppc64le
+
+python:
+  - 2.7
+  - 3.5
+  - pypy2
+  - pypy3
